@@ -3,3 +3,4 @@ Sample Project
 
 This is a sample project to demonstrate git.  All files except this one are blank.
 Some changes have been made.
+Changes and changes
